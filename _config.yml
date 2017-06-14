@@ -1,9 +1,9 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
+title: Askin Techlabs Private Limited
+email: contact@askin.tech
+description: Askin Techlabs builds on the latest technologies to build top quality apps for its customers.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "askin.tech" # the base hostname & protocol for your site
 
 twitter_username:
 github_username:
